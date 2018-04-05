@@ -1,5 +1,5 @@
 #include <iostream>
-
+//программа является учебной
 int
 main() {
     int a,b;
